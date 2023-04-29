@@ -74,6 +74,7 @@ function swasthyaIboNavigation(activePage) {
         <h5 style="color:white">Swasthya</h5> \
             <ul id="portalNavbar"> \
                 <li><a href="../platinum/platinumdashboard.html" id="dashboard"><i class="fas fa-users"></i> Dashboard</a></li> \
+                <li><a href="../coursesalesreportPlatinum.html" id="content"><i class="fas fa-users"></i>Client Engage</a></li> \
                 <li><a href="../viewcustomers.html" id="customers"><i class="fas fa-users"></i> Customers</a></li> \
                 <li><a href="../platinum/leadmanagement.html" id="content"><i class="fas fa-users"></i>Lead Management</a></li> \
                 <li><a href="../publiccontent.html" id="content"><i class="fas fa-users"></i> Content</a></li> \
@@ -88,6 +89,7 @@ function swasthyaIboNavigation(activePage) {
         <h5 style="color:white">Swasthya</h5> \
             <ul id="portalNavbar"> \
                 <li><a href="../ibo/ibodashboard.html" id="dashboard"><i class="fas fa-users"></i> Dashboard</a></li> \
+                <li><a href="../coursesalesreport.html" id="content"><i class="fas fa-users"></i>Client Engage</a></li> \
                 <li><a href="../viewcustomers.html" id="customers"><i class="fas fa-users"></i> Customers</a></li> \
                 <li><a href="../leads.html" id="content"><i class="fas fa-users"></i>Lead Management</a></li> \
                 <li><a href="../publiccontent.html" id="content"><i class="fas fa-users"></i> Content</a></li> \
